@@ -33,8 +33,15 @@ GodplaceBlog-GitHub/
 
 ## 快速开始
 
-### 单页版本（推荐）
+### 单页版本（推荐）- 已部署到GitHub Pages
 
+🎉 **项目已自动部署到GitHub Pages！**
+
+访问地址：https://leyili5.github.io/liyijun/
+
+或者直接访问单页版本：https://leyili5.github.io/liyijun/single-page/index.html
+
+### 本地运行
 1. 直接打开 `single-page/index.html` 文件
 2. 或部署到任意Web服务器
 
