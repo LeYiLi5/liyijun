@@ -1,0 +1,21 @@
+# GitHub Pages 配置
+baseurl: "/GodplaceBlog-GitHub"
+url: "https://leyili5.github.io"
+
+# 主题设置
+theme: jekyll-theme-cayman
+
+# 构建排除
+exclude:
+  - backend/
+  - frontend/
+  - node_modules/
+  - .github/
+  - README.md
+
+# 默认页面
+defaults:
+  - scope:
+      path: ""
+    values:
+      permalink: /single-page/index.html
